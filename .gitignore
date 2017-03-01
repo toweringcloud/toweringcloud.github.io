@@ -5,4 +5,7 @@ _site/
 .sass-cache/
 .jekyll-metadata
 
+### Common
+.ssh/
+
 # End of https://www.gitignore.io/api/jekyll
