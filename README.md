@@ -8,3 +8,4 @@
 
 -   Mini Projects
     -   Movie Search : vanillajs react movie list & detail ([demo](https://toweringcloud.github.io/movie-search), [repo](https://github.com/toweringcloud/movie-search))
+    -   Job Search : python flask scrapper using beautifulsoup (comming soon...)
