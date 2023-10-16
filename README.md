@@ -1,4 +1,4 @@
-# toweringcloud opensource
+# Open Source Projects
 
 -   Clone Projects
 
@@ -7,5 +7,10 @@
     -   Twitter Clone : typescript react sns app using firebase (comming soon...)
 
 -   Mini Projects
+
     -   Movie Search : vanillajs react movie list & detail ([demo](https://toweringcloud.github.io/movie-search), [repo](https://github.com/toweringcloud/movie-search))
     -   Job Search : python flask scrapper using beautifulsoup (comming soon...)
+    -   Pandas Report : python web dashboard using streamlit (comming soon...)
+
+-   Side Projects
+    -   Infra Observer : vanillajs vue monitoring dashboard (comming soon...)
