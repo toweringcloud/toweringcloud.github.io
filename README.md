@@ -8,9 +8,10 @@
 
 -   Mini Projects
 
+    -   Data Visualization : python streamlit web dashboard ([demo](https://olympics-participations.streamlit.app), [repo](https://github.com/toweringcloud/data-visualization))
+    -   Job Search : python flask scrapper using beautifulsoup ([demo](), [repo](https://github.com/toweringcloud/job-search))
     -   Movie Search : vanillajs react movie list & detail ([demo](https://toweringcloud.github.io/movie-search), [repo](https://github.com/toweringcloud/movie-search))
-    -   Job Search : python flask scrapper using beautifulsoup (comming soon...)
-    -   Pandas Report : python web dashboard using streamlit (comming soon...)
+    -   Webtoon : dart flutter based webtoon mobile app (comming soon...)
 
 -   Side Projects
     -   Infra Observer : vanillajs vue monitoring dashboard (comming soon...)
