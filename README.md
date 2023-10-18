@@ -8,7 +8,7 @@
 
 -   Mini Projects
 
-    -   Data Visualization : python streamlit visualization dashboard ([demo](https://olympics-participations.streamlit.app), [repo](https://github.com/toweringcloud/data-visualization))
+    -   Data Visualization : python streamlit interactive dashboard ([demo](https://olympics-participations.streamlit.app), [repo](https://github.com/toweringcloud/data-visualization))
     -   Job Search : python flask scrapper using beautifulsoup ([demo](), [repo](https://github.com/toweringcloud/job-search))
     -   Movie Search : vanillajs react movie list & detail ([demo](https://toweringcloud.github.io/movie-search), [repo](https://github.com/toweringcloud/movie-search))
     -   OpenID Connect : typescript react authentication using firebase ([demo](https://toweringcloud.github.io/openid-connect), [repo](https://github.com/toweringcloud/openid-connect))
