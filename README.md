@@ -4,7 +4,7 @@
 
     -   Momentum Clone : vanillajs chrome web accessories ([demo](https://toweringcloud.github.io/momentum-clone), [repo](https://github.com/toweringcloud/momentum-clone))
     -   Twitter Clone : typescript react social network service (comming soon...)
-    -   Zoom Clone : vanillajs webrtc video & audio chat app ([demo](https://9fnc6q-3000.csb.app), [repo](https://github.com/toweringcloud/zoom-clone))
+    -   Zoom Clone : vanillajs webrtc video & audio meeting ([demo](https://9fnc6q-3000.csb.app), [repo](https://github.com/toweringcloud/zoom-clone))
 
 -   Mini Projects
 
