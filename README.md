@@ -12,6 +12,7 @@
     -   Job Search : python flask remote job scrapper using beautifulsoup ([demo](https://pys07.toweringcloud.repl.co), [repo](https://github.com/toweringcloud/job-search))
     -   Movie Search : vanillajs react movie list & detail ([demo](https://toweringcloud.github.io/movie-search), [repo](https://github.com/toweringcloud/movie-search))
     -   OpenID Connect : typescript react authentication using firebase ([demo](https://toweringcloud.github.io/openid-connect), [repo](https://github.com/toweringcloud/openid-connect))
+    -   Text Chat : vanillaja socketio simple chat messenger ([demo](jpjvwc-3000.csb.app), [repo](https://github.com/toweringcloud/text-chat))
     -   Webtoon Mobile : dart flutter webtoon mobile app (comming soon...)
 
 -   Side Projects
