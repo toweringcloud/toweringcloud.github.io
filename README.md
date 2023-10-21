@@ -14,6 +14,8 @@
     -   OpenID Connect : typescript react authentication using firebase ([demo](https://toweringcloud.github.io/openid-connect), [repo](https://github.com/toweringcloud/openid-connect))
     -   Text Chat : vanillajs socketio simple chat messenger ([demo](https://jpjvwc-3000.csb.app), [repo](https://github.com/toweringcloud/text-chat))
     -   Webtoon Mobile : dart flutter webtoon mobile app (comming soon...)
+    -   Word Dictionary : polyglot mini word dictionary challenge ([demo](), [repo](https://github.com/toweringcloud/word-dictionary))
 
 -   Side Projects
+
     -   System Console : vanillajs vue infra monitoring dashboard (comming soon...)
