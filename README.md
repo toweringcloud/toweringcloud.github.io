@@ -15,8 +15,8 @@
     -   Momentum Clone : vanillajs chrome web accessories ([demo](https://toweringcloud.github.io/momentum-clone), [repo](https://github.com/toweringcloud/momentum-clone))
     -   Netfix Clone : typescript react movie streaming (comming soon...)
     -   Pomodoro Clone : dart flutter time manager mobile app (comming soon...)
+    -   Twitter Clone : typescript react firebase social network service ([demo](https://nwitter-reloaded-6f54d.web.app), [repo](https://github.com/toweringcloud/twitter-clone))
     -   Webtoons Clone : dart flutter webtoon mobile app (comming soon...)
-    -   X Clone : typescript react firebase social network service ([demo](https://nwitter-reloaded-6f54d.web.app), [repo](https://github.com/toweringcloud/twitter-clone))
     -   Zoom Clone : vanillajs webrtc video & audio meeting ([demo](https://9fnc6q-3000.csb.app), [repo](https://github.com/toweringcloud/zoom-clone))
 
 -   Headless Projects
