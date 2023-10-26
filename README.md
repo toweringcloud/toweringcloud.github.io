@@ -17,7 +17,7 @@
     -   Pomodoro Clone : dart flutter timer mobile app (comming soon...)
     -   Twitter Clone : typescript react firebase social network service ([demo](https://nwitter-reloaded-6f54d.web.app), [repo](https://github.com/toweringcloud/twitter-clone))
     -   Webtoons Clone : dart flutter webtoon mobile app (comming soon...)
-    -   Zoom Clone : vanillajs webrtc video & audio meeting ([demo](https://9fnc6q-3000.csb.app), [repo](https://github.com/toweringcloud/zoom-clone))
+    -   Zoom Clone : vanillajs pug webrtc video & audio meeting ([demo](https://9fnc6q-3000.csb.app), [repo](https://github.com/toweringcloud/zoom-clone))
 
 -   Headless Projects
 
