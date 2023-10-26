@@ -9,7 +9,7 @@
 
 -   Headless Projects
 
-    -   User Management : vanillajs express mongodb admin portal (comming soon...)
+    -   User Management : vanillajs express mongodb rest api (comming soon...)
 
 -   Mini Projects
 
