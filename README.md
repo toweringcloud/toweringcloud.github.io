@@ -6,8 +6,8 @@
     -   Data Visualization : python streamlit interactive statistics dashboard ([demo](https://olympics-participations.streamlit.app), [repo](https://github.com/toweringcloud/data-visualization))
     -   Job Search : python flask remote job scrapper using beautifulsoup ([demo](https://pys07.toweringcloud.repl.co), [repo](https://github.com/toweringcloud/job-search))
     -   Movie Search : vanillajs react movie list & detail ([demo](https://toweringcloud.github.io/movie-search), [repo](https://github.com/toweringcloud/movie-search))
-    -   OpenID Connect : typescript react authentication using firebase ([demo](), [repo](https://github.com/toweringcloud/openid-connect))
-    -   Pomodoro Timer : dart flutter timer mobile app (comming soon...)
+    -   OpenID Connect : typescript react authentication using firebase ([demo](https://toweringcloud.github.io/openid-connect), [repo](https://github.com/toweringcloud/openid-connect))
+    -   Pomodoro Timer : dart flutter time management mobile app (comming soon...)
     -   Text Chat : vanillajs socketio simple chat messenger ([demo](https://jpjvwc-3000.csb.app), [repo](https://github.com/toweringcloud/text-chat))
     -   Word Dictionary : polyglot word dictionary challenge ([demo](), [repo](https://github.com/toweringcloud/word-dictionary))
 
