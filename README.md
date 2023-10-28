@@ -9,7 +9,7 @@
     -   OpenID Connect : typescript react authentication using firebase ([demo](https://toweringcloud.github.io/openid-connect), [repo](https://github.com/toweringcloud/openid-connect))
     -   Pomodoro Timer : dart flutter time management mobile app (comming soon...)
     -   Text Chat : vanillajs socketio simple chat messenger ([demo](https://jpjvwc-3000.csb.app), [repo](https://github.com/toweringcloud/text-chat))
-    -   Word Dictionary : polyglot word dictionary challenge ([demo](), [repo](https://github.com/toweringcloud/word-dictionary))
+    -   Word Dictionary : polyglot word dictionary challenge ([demo](https://codesandbox.io), [repo](https://github.com/toweringcloud/word-dictionary))
 
 -   Clone Projects
 
