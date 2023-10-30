@@ -7,7 +7,7 @@
     -   Job Search : python flask remote job scrapper using beautifulsoup ([demo](https://pys07.toweringcloud.repl.co), [repo](https://github.com/toweringcloud/job-search))
     -   Movie Search : vanillajs react movie list & detail ([demo](https://toweringcloud.github.io/movie-search), [repo](https://github.com/toweringcloud/movie-search))
     -   OpenID Connect : typescript react authentication using firebase ([demo](https://toweringcloud.github.io/openid-connect), [repo](https://github.com/toweringcloud/openid-connect))
-    -   Pomodoro Timer : dart flutter time management mobile app (comming soon...)
+    -   Pomodoro Timer : dart flutter time management utility (comming soon...)
     -   Text Chat : vanillajs socketio simple chat messenger ([demo](https://jpjvwc-3000.csb.app), [repo](https://github.com/toweringcloud/text-chat))
     -   Word Dictionary : polyglot word dictionary challenge ([demo](https://codesandbox.io), [repo](https://github.com/toweringcloud/word-dictionary))
 
@@ -21,8 +21,10 @@
 
 -   Headless Projects
 
-    -   User Management : vanillajs express mongodb rest api (comming soon...)
+    -   Health Check : vanillajs cjs express redis systems rest api (commin soon...)
+    -   File Storage : typescript express gridfs files rest api (comming soon...)
+    -   User Admin : vanillajs es6 express mongodb users rest api (comming soon...)
 
 -   Side Projects
 
-    -   System Console : vanillajs vue infra monitoring dashboard (comming soon...)
+    -   System Console : html5 css3 vanillajs monitoring dashboard (comming soon...)
