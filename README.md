@@ -2,7 +2,7 @@
 
 -   Boilerplate Projects
 
-    -   Crypto Tracker : typescript react apexchart coin price search ([demo](https://toweringcloud.github.io/crypto-tracker), [repo](https://github.com/toweringcloud))
+    -   Crypto Tracker : typescript react apexchart coin ranking search ([demo](https://toweringcloud.github.io/crypto-tracker), [repo](https://github.com/toweringcloud/crypto-tracker))
     -   Data Visualization : python streamlit interactive statistics dashboard ([demo](https://olympics-participations.streamlit.app), [repo](https://github.com/toweringcloud/data-visualization))
     -   Job Search : python flask remote job scrapper using beautifulsoup ([demo](https://pys07.toweringcloud.repl.co), [repo](https://github.com/toweringcloud/job-search))
     -   Movie Search : vanillajs react movie list & detail ([demo](https://toweringcloud.github.io/movie-search), [repo](https://github.com/toweringcloud/movie-search))
@@ -22,7 +22,7 @@
 -   Headless Projects
 
     -   File Storage : nodejs gridfs files rest api (comming soon...)
-    -   Health Check : nodejs redis systems rest api (commin soon...)
+    -   Health Check : nodejs redis systems rest api (comming soon...)
     -   User Admin : nodejs mongodb users rest api (comming soon...)
 
 -   Side Projects
