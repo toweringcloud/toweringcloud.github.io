@@ -68,7 +68,7 @@ Error generating stack: `+i.message+`
 `,CC=Ue.div`
 	font-size: 12px;
 	color: orange;
-`;function xC(){var s,a;const e=ty(Rf),t=cf(Iy),{register:n,handleSubmit:r,setValue:o,formState:i}=Py(),l=({toDo:u})=>{e(f=>[{text:u,id:Date.now(),category:t},...f]),o("toDo","")};return J.jsxs(J.Fragment,{children:[J.jsx("form",{onSubmit:r(l),children:J.jsxs(EC,{children:[J.jsx(kC,{...n("toDo",{required:"Please write a To Do",minLength:{value:2,message:"Your task is too short (min 2)!"},maxLength:{value:20,message:"Your task is too long (max 20)!"}}),placeholder:"Write a task to do"}),J.jsx(TC,{children:"ADD"})]})}),J.jsx(CC,{children:(a=(s=i.errors)==null?void 0:s.toDo)==null?void 0:a.message})]})}const NC=Ue.div`
+`;function xC(){var s,a;const e=ty(Rf),t=cf(Iy),{register:n,handleSubmit:r,setValue:o,formState:i}=Py(),l=({toDo:u})=>{e(f=>[{text:u,id:Date.now(),category:t},...f]),o("toDo","")};return J.jsxs(J.Fragment,{children:[J.jsx("form",{onSubmit:r(l),children:J.jsxs(EC,{children:[J.jsx(kC,{...n("toDo",{required:"Please write a To Do",minLength:{value:3,message:"Your task is too short (min 3)!"},maxLength:{value:30,message:"Your task is too long (max 30)!"}}),placeholder:"Write a task to do"}),J.jsx(TC,{children:"ADD"})]})}),J.jsx(CC,{children:(a=(s=i.errors)==null?void 0:s.toDo)==null?void 0:a.message})]})}const NC=Ue.div`
 	width: 30vw;
 	border: 1px solid white;
 	border-radius: 15px;
