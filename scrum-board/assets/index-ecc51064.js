@@ -180,7 +180,7 @@ Error generating stack: `+i.message+`
 	margin-bottom: 10px;
 `,H2=Me.div`
 	width: 30vw;
-	height: 7.5vh;
+	height: 6vh;
 	border: 1px dotted white;
 	border-radius: 15px;
 	background-color: lightgray;
