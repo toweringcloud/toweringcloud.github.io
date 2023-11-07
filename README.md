@@ -15,8 +15,8 @@
 -   Clone Projects
 
     -   Momentum Clone : vanillajs chrome desktop accessories ([demo](https://toweringcloud.github.io/momentum-clone), [repo](https://github.com/toweringcloud/momentum-clone))
-    -   Netflix Clone : typescript react movie & tvshow platform ([demo](https://toweringcloud.github.io), [repo](https://github.com/toweringcloud/netflix-clone))
-    -   Trello Clone : typescript react drag & drop board (comming soon...)
+    -   Netflix Clone : typescript react movie & tvshow guide ([demo](https://toweringcloud.github.io), [repo](https://github.com/toweringcloud/netflix-clone))
+    -   Trello Clone : typescript react drag & drop work board (comming soon...)
     -   Webtoons Clone : dart flutter webtoon mobile app (comming soon...)
     -   X(Twitter) Clone : typescript react firebase social network service ([demo](https://nwitter-reloaded-6f54d.web.app), [repo](https://github.com/toweringcloud/twitter-clone))
     -   Zoom Clone : vanillajs webrtc video & audio meeting ([demo](https://9fnc6q-3000.csb.app), [repo](https://github.com/toweringcloud/zoom-clone))
