@@ -2,7 +2,7 @@
 
 -   Boilerplate Projects
 
-    -   Crypto Tracker : typescript react apexchart coin ranking search ([demo](https://toweringcloud.github.io), [repo](https://github.com/toweringcloud/crypto-tracker))
+    -   Crypto Tracker : typescript react apexchart coin ranking search ([demo](https://toweringcloud.github.io/crypto-tracker), [repo](https://github.com/toweringcloud/crypto-tracker))
     -   Data Visualization : python streamlit interactive statistics dashboard ([demo](https://olympics-participations.streamlit.app), [repo](https://github.com/toweringcloud/data-visualization))
     -   Job Search : python flask remote job scrapper using beautifulsoup ([demo](https://pys07.toweringcloud.repl.co), [repo](https://github.com/toweringcloud/job-search))
     -   Movie Search : vanillajs react movie list & detail ([demo](https://toweringcloud.github.io/movie-search), [repo](https://github.com/toweringcloud/movie-search))
@@ -15,7 +15,7 @@
 -   Clone Projects
 
     -   Momentum Clone : vanillajs chrome desktop accessories ([demo](https://toweringcloud.github.io/momentum-clone), [repo](https://github.com/toweringcloud/momentum-clone))
-    -   Netflix Clone : typescript react movie streaming (comming soon...)
+    -   Netflix Clone : typescript react movie & tvshow platform ([demo](https://toweringcloud.github.io), [repo](https://github.com/toweringcloud/netflix-clone))
     -   Trello Clone : typescript react drag & drop board (comming soon...)
     -   Webtoons Clone : dart flutter webtoon mobile app (comming soon...)
     -   X(Twitter) Clone : typescript react firebase social network service ([demo](https://nwitter-reloaded-6f54d.web.app), [repo](https://github.com/toweringcloud/twitter-clone))
