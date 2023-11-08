@@ -2,25 +2,24 @@
 
 -   Boilerplate Projects
 
-    -   Crypto Tracker : typescript react apexchart crypto ranking search ([demo](https://toweringcloud.github.io/crypto-finder), [repo](https://github.com/toweringcloud/crypto-tracker))
-    -   Data Visualization : python streamlit interactive statistics dashboard ([demo](https://olympics-participations.streamlit.app), [repo](https://github.com/toweringcloud/data-visualization))
+    -   Crypto Tracker : typescript react apexchart crypto ranking search ([demo](https://toweringcloud.github.io/crypto-tracker), [repo](https://github.com/toweringcloud/crypto-tracker))
+    -   Data Visualization : python streamlit interactive statistics dashboard ([demo](https://toweringcloud.github.io/data-visualization), [repo](https://github.com/toweringcloud/data-visualization))
     -   How is the Weather? : vanillajs react-native expo location & weather (comming soon...)
-    -   Job Search : python flask remote job scrapper using beautifulsoup ([demo](https://pys07.toweringcloud.repl.co), [repo](https://github.com/toweringcloud/job-search))
+    -   Job Scrapper : python flask remote job scrapper using beautifulsoup ([demo](https://toweringcloud.github.io/job-search), [repo](https://github.com/toweringcloud/job-search))
     -   Movie Search : vanillajs react movie list & detail ([demo](https://toweringcloud.github.io/movie-search), [repo](https://github.com/toweringcloud/movie-search))
     -   OpenID Connect : typescript react authentication using firebase ([demo](https://toweringcloud.github.io/openid-connect), [repo](https://github.com/toweringcloud/openid-connect))
     -   Pomodoro Timer : dart flutter time management utility (comming soon...)
     -   Scrum Board : typescript react recoil task manager ([demo](https://toweringcloud.github.io/scrum-board), [repo](https://github.com/toweringcloud/scrum-board))
-    -   Text Chat : vanillajs socketio simple chat messenger ([demo](https://jpjvwc-3000.csb.app), [repo](https://github.com/toweringcloud/text-chat))
+    -   Text Chat : vanillajs express socketio chat messenger ([demo](https://toweringcloud.github.io/text-chat), [repo](https://github.com/toweringcloud/text-chat))
     -   Word Dictionary : polyglot word dictionary challenge ([demo](https://codesandbox.io), [repo](https://github.com/toweringcloud/word-dictionary))
 
 -   Clone Projects
 
+    -   Bitly Clone : typescript nextjs cloudflare url shortner (~ 24/11/17)
     -   Momentum Clone : vanillajs chrome desktop accessories ([demo](https://toweringcloud.github.io/momentum-clone), [repo](https://github.com/toweringcloud/momentum-clone))
     -   Netflix Clone : typescript react movie & tvshow guide ([demo](https://toweringcloud.github.io/netflix-clone), [repo](https://github.com/toweringcloud/netflix-clone))
-    -   Trello Clone : typescript react drag & drop work board (comming soon...)
-    -   Webtoons Clone : dart flutter webtoon mobile app (comming soon...)
-    -   X(Twitter) Clone : typescript react firebase social network service ([demo](https://nwitter-reloaded-6f54d.web.app), [repo](https://github.com/toweringcloud/twitter-clone))
-    -   Zoom Clone : vanillajs webrtc video & audio meeting ([demo](https://9fnc6q-3000.csb.app), [repo](https://github.com/toweringcloud/zoom-clone))
+    -   X(Twitter) Clone : typescript react firebase social network service ([demo](https://toweringcloud.github.io/xtwitter-clone), [repo](https://github.com/toweringcloud/twitter-clone))
+    -   Zoom Clone : vanillajs express webrtc video meeting ([demo](https://toweringcloud.github.io/zoom-clone), [repo](https://github.com/toweringcloud/zoom-clone))
 
 -   Game Projects
 
@@ -28,10 +27,8 @@
 
 -   Headless Projects
 
-    -   File Storage : nodejs gridfs files rest api (comming soon...)
     -   Health Check : nodejs redis systems rest api (comming soon...)
-    -   User Admin : nodejs mongodb users rest api (comming soon...)
 
 -   Side Projects
 
-    -   System Console : html5 css3 vanillajs monitoring dashboard (comming soon...)
+    -   Infra Console : html5 css3 vanillajs cloud dashboard (comming soon...)
