@@ -4,6 +4,7 @@
 
     -   Crypto Tracker : typescript react apexchart crypto ranking search ([demo](https://toweringcloud.github.io/crypto-finder), [repo](https://github.com/toweringcloud/crypto-tracker))
     -   Data Visualization : python streamlit interactive statistics dashboard ([demo](https://olympics-participations.streamlit.app), [repo](https://github.com/toweringcloud/data-visualization))
+    -   How is the Weather? : vanillajs react-native expo location & weather (comming soon...)
     -   Job Search : python flask remote job scrapper using beautifulsoup ([demo](https://pys07.toweringcloud.repl.co), [repo](https://github.com/toweringcloud/job-search))
     -   Movie Search : vanillajs react movie list & detail ([demo](https://toweringcloud.github.io/movie-search), [repo](https://github.com/toweringcloud/movie-search))
     -   OpenID Connect : typescript react authentication using firebase ([demo](https://toweringcloud.github.io/openid-connect), [repo](https://github.com/toweringcloud/openid-connect))
