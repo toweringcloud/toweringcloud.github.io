@@ -15,9 +15,9 @@
 
 -   Clone Projects
 
-    -   Bitly Clone : typescript nextjs cloudflare url shortner (comming soon...)
+    -   Bitly Clone : typescript nextjs url shortner using cloudflare (comming soon...)
     -   Momentum Clone : vanillajs chrome desktop accessories ([demo](https://toweringcloud.github.io/momentum-clone), [repo](https://github.com/toweringcloud/momentum-clone))
-    -   Netflix Clone : typescript react movie & tvshow guide ([demo](https://toweringcloud.github.io/netflix-clone), [repo](https://github.com/toweringcloud/netflix-clone))
+    -   Netflix Clone : typescript react movie & tvshow preview ([demo](https://toweringcloud.github.io/netflix-clone), [repo](https://github.com/toweringcloud/netflix-clone))
     -   X(Twitter) Clone : typescript react firebase social network service ([demo](https://toweringcloud.github.io/xtwitter-clone), [repo](https://github.com/toweringcloud/twitter-clone))
     -   Zoom Clone : vanillajs express webrtc video meeting ([demo](https://toweringcloud.github.io/zoom-clone), [repo](https://github.com/toweringcloud/zoom-clone))
 
