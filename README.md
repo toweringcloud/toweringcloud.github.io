@@ -27,7 +27,7 @@
 
 -   Headless Projects
 
-    -   Health Check : nodejs redis systems rest api (comming soon...)
+    -   Health Check : nodejs redis system monitoring api (comming soon...)
 
 -   Side Projects
 
