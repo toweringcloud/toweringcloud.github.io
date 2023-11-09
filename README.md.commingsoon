@@ -1,0 +1,44 @@
+# Open Source Projects
+
+-   Boilerplate Projects
+
+    -   How is the Weather? : vanillajs react-native expo location & weather (~ 23/11/10)
+    -   Nutrition Survey : typescript nextjs calorie analytics (~ 23/11/30)
+    -   Pomodoro Timer : dart flutter time management utility (~ 23/11/17)
+    -   Reservation Alarm : python kivy ... (~ 23/12/31)
+
+-   Clone Projects
+
+    -   Airbnb Clone : python django house sharing service (~ 24/03/31)
+    -   Bitly Clone : typescript nextjs url shortner using cloudflare (~ 24/11/17)
+    -   CarretMarket Clone : typescript nextjs netlify ... (~ 23/12/17)
+    -   Discord Clone : typescript nextron express webrtc ... (~ 24/02/15)
+    -   GoogleDrive Clone : typescript nextjs firebase ... (~ 24/01/15)
+    -   Instagram Clone : typescript react-native media feed (~ 24/02/29)
+    -   KakaoTalk Clone : vanillajs firebase realtime messenger (~ 24/02/29)
+    -   Realtor Clone : typescript react firebase ... (~ 24/01/31)
+    -   Slack Clone : typescript react socketio ... (~ 23/11/30)
+    -   Trello Clone : typescript react interactive work board (~ 23/11/24)
+    -   UberEats Clone : typescript nestjs stripe ... (~ 24/02/11)
+    -   Webtoons Clone : dart flutter webtoon mobile app (~ 23/11/26)
+    -   Youtube Clone : vanillajs express pug video streaming (~ 24/03/31)
+
+-   Game Projects
+
+    -   Memory Game : typescript nextjs find same image (~ 23/12/31)
+    -   X Game : dart flutter ... (~ 24/02/29)
+    -   Y Game : python kivy ... (~ 24/04/30)
+
+-   Headless Projects
+
+    -   Account Manager : nodejs mongodb user sign-up/in api (~ 23/12/31)
+    -   File Storage : nodejs gridfs file management api (~ 24/02/29)
+    -   Health Check : nodejs redis system monitoring api (~ 23/11/30)
+    -   Streaming Broker : nodejs grpc media streaming api (~ 24/04/30)
+
+-   Side Projects
+
+    -   Book Store : typescript react-native library keeper (~ 24/04/30)
+    -   Collabo Whiteboard : typescript react socketio canvas (~ 24/02/29)
+    -   Harmful Filter : typescript nextjs seller backoffice (~ 23/12/31)
+    -   Infra Console : html5 css3 vanillajs cloud dashboard (~ 23/11/30)
