@@ -1,6 +1,6 @@
 {
-	"short_name": "Crypto Tracker",
-	"name": "Crypto Tracker",
+	"short_name": "React App",
+	"name": "create react app default theme",
 	"icons": [
 		{
 			"src": "favicon.ico",
@@ -18,7 +18,7 @@
 			"sizes": "512x512"
 		}
 	],
-	"start_url": "./index_crypto.html",
+	"start_url": ".",
 	"display": "standalone",
 	"theme_color": "#000000",
 	"background_color": "#ffffff"
