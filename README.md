@@ -2,10 +2,10 @@
 
 -   Boilerplate Projects
 
-    -   Crypto Tracker : typescript react apexchart crypto ranking search ([demo](https://toweringcloud.github.io/crypto-tracker), [repo](https://github.com/toweringcloud/crypto-tracker))
+    -   Crypto Tracker : typescript react apexchart crypto ranking search ([demo](https://toweringcloud.github.io/crypto-ranking), [repo](https://github.com/toweringcloud/crypto-tracker))
     -   Data Visualization : python streamlit interactive statistics dashboard ([demo](https://toweringcloud.github.io/data-visualization), [repo](https://github.com/toweringcloud/data-visualization))
     -   How is the Weather? : vanillajs react-native expo location & weather (comming soon...)
-    -   Job Scrapper : python flask remote job scrapper using beautifulsoup ([demo](https://toweringcloud.github.io/job-search), [repo](https://github.com/toweringcloud/job-search))
+    -   Job Scrapper : python flask remote job scrapper using beautifulsoup ([demo](https://toweringcloud.github.io/job-scrapper), [repo](https://github.com/toweringcloud/job-scrapper))
     -   Movie Search : vanillajs react movie list & detail ([demo](https://toweringcloud.github.io/movie-search), [repo](https://github.com/toweringcloud/movie-search))
     -   OpenID Connect : typescript react authentication using firebase ([demo](https://toweringcloud.github.io/openid-connect), [repo](https://github.com/toweringcloud/openid-connect))
     -   Pomodoro Timer : dart flutter time management utility (comming soon...)
