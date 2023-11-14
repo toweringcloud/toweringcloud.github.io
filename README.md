@@ -11,7 +11,7 @@
     -   OpenID Connect : typescript react authentication using firebase ([demo](https://toweringcloud.github.io/openid-connect), [repo](https://github.com/toweringcloud/openid-connect))
     -   Pomodoro Timer : dart flutter time management utility (comming soon...)
     -   Scrum Board : typescript react recoil task manager ([demo](https://toweringcloud.github.io/scrum-board), [repo](https://github.com/toweringcloud/scrum-board))
-    -   To Do List : vanillajs react-native expo to do list ([demo](https://toweringcloud.github.io/todo-list), [repo](https://github.com/toweringcloud/todo-list))
+    -   To Do List : vanillajs react-native expo work & travel ([demo](https://toweringcloud.github.io/todo-list), [repo](https://github.com/toweringcloud/todo-list))
     -   Word Dictionary : polyglot word dictionary challenge ([demo](https://codesandbox.io), [repo](https://github.com/toweringcloud/word-dictionary))
     -   Zzal Maker : vanillajs canvas digital meme maker ([demo](https://toweringcloud.github.io/meme-maker), [repo](https://github.com/toweringcloud/meme-maker))
 
