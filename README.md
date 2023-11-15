@@ -4,14 +4,14 @@
 
     -   Another Chat : vanillajs express socketio chat messenger ([demo](https://toweringcloud.github.io/text-chat), [repo](https://github.com/toweringcloud/text-chat))
     -   Crypto Tracker : typescript react apexchart crypto ranking ([demo](https://enchanting-semolina-556992.netlify.app), [repo](https://github.com/toweringcloud/crypto-tracker))
-    -   How is the Weather? : vanillajs react-native expo weather forecast ([demo](https://toweringcloud.github.io/weather-forecast), [repo](https://github.com/toweringcloud/weather-forecast))
+    -   How is the Weather? : vanillajs react-native expo weather forecast ([demo](https://github.com/toweringcloud/weather-forecast), [repo](https://github.com/toweringcloud/weather-forecast))
     -   Interactive Dashboard : python streamlit statistics dashboard ([demo](https://toweringcloud.github.io/data-visualization), [repo](https://github.com/toweringcloud/data-visualization))
     -   Job Scrapper : python flask job scrapper using beautifulsoup ([demo](https://toweringcloud.github.io/job-scrapper), [repo](https://github.com/toweringcloud/job-scrapper))
     -   Movie Search : vanillajs react movie list & detail ([demo](https://toweringcloud.github.io/movie-search), [repo](https://github.com/toweringcloud/movie-search))
     -   OpenID Connect : typescript react authentication using firebase ([demo](https://toweringcloud.github.io/openid-connect), [repo](https://github.com/toweringcloud/openid-connect))
     -   Pomodoro Timer : dart flutter time management utility (comming soon...)
     -   Scrum Board : typescript react recoil task manager ([demo](https://toweringcloud.github.io/scrum-board), [repo](https://github.com/toweringcloud/scrum-board))
-    -   To Do List : vanillajs react-native expo work & travel checklist ([demo](https://toweringcloud.github.io/todo-list), [repo](https://github.com/toweringcloud/todo-list))
+    -   To Do List : vanillajs react-native expo work & travel checklist ([demo](https://github.com/toweringcloud/todo-list), [repo](https://github.com/toweringcloud/todo-list))
     -   Word Dictionary : polyglot word dictionary challenge ([demo](https://codesandbox.io), [repo](https://github.com/toweringcloud/word-dictionary))
     -   Zzal Maker : vanillajs canvas digital meme maker ([demo](https://toweringcloud.github.io/meme-maker), [repo](https://github.com/toweringcloud/meme-maker))
 
