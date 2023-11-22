@@ -3,7 +3,7 @@
 -   Boilerplate Projects
 
     -   Another Chat : vanillajs express socketio chat messenger ([demo](https://toweringcloud.github.io/text-chat), [repo](https://github.com/toweringcloud/text-chat))
-    -   Crypto Tracker : typescript react apexchart crypto ranking ([demo0](https://enchanting-semolina-556992.netlify.app), [demo1](https://toweringcloud.github.io/crypto-ranking), [repo](https://github.com/toweringcloud/crypto-tracker))
+    -   Crypto Tracker : typescript react apexchart crypto ranking ([d0](https://enchanting-semolina-556992.netlify.app), [d1](https://toweringcloud.github.io/crypto-ranking), [repo](https://github.com/toweringcloud/crypto-tracker))
     -   How is the Weather? : vanillajs react-native expo weather forecast ([demo](https://github.com/toweringcloud/weather-forecast), [repo](https://github.com/toweringcloud/weather-forecast))
     -   Interactive Dashboard : python streamlit statistics dashboard ([demo](https://toweringcloud.github.io/data-visualization), [repo](https://github.com/toweringcloud/data-visualization))
     -   Job Scrapper : python flask job scrapper using beautifulsoup ([demo](https://toweringcloud.github.io/job-scrapper), [repo](https://github.com/toweringcloud/job-scrapper))
@@ -22,7 +22,7 @@
     -   Netflix Clone : typescript react movie & tvshow preview ([demo](https://toweringcloud.github.io/netflix-clone), [repo](https://github.com/toweringcloud/netflix-clone))
     -   Trello Clone : typescript react interactive scrum board (comming soon...)
     -   Webtoons Clone : dart flutter webtoon mobile app (comming soon...)
-    -   X(Twitter) Clone : typescript react firebase social network service ([demo0](https://nwitter-reloaded-6f54d.web.app), [demo1](https://toweringcloud.github.io/twitter-clone), [repo](https://github.com/toweringcloud/twitter-clone))
+    -   X(Twitter) Clone : typescript react firebase social network service ([d0](https://nwitter-reloaded-6f54d.web.app), [d1](https://toweringcloud.github.io/twitter-clone), [repo](https://github.com/toweringcloud/twitter-clone))
     -   Zoom Clone : vanillajs express webrtc video meeting ([demo](https://toweringcloud.github.io/zoom-clone), [repo](https://github.com/toweringcloud/zoom-clone))
 
 -   Game Projects
