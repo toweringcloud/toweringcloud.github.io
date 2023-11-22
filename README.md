@@ -8,6 +8,7 @@
     -   Interactive Dashboard : python streamlit statistics dashboard ([demo](https://toweringcloud.github.io/data-visualization), [repo](https://github.com/toweringcloud/data-visualization))
     -   Job Scrapper : python flask job scrapper using beautifulsoup ([demo](https://toweringcloud.github.io/job-scrapper), [repo](https://github.com/toweringcloud/job-scrapper))
     -   Movie Search : vanillajs react movie list & detail ([demo](https://toweringcloud.github.io/movie-search), [repo](https://github.com/toweringcloud/movie-search))
+    -   Nutrition Survey : typescript nextjs calorie analytics (comming soon...)
     -   OpenID Connect : typescript react authentication using firebase ([demo](https://toweringcloud.github.io/openid-connect), [repo](https://github.com/toweringcloud/openid-connect))
     -   Pomodoro Timer : dart flutter time management utility (comming soon...)
     -   Scrum Board : typescript react recoil task manager ([demo](https://toweringcloud.github.io/scrum-board), [repo](https://github.com/toweringcloud/scrum-board))
@@ -17,15 +18,16 @@
 
 -   Clone Projects
 
-    -   Bitly Clone : typescript nextjs url shortner using cloudflare (comming soon...)
     -   Momentum Clone : vanillajs chrome desktop accessories ([demo](https://toweringcloud.github.io/momentum-clone), [repo](https://github.com/toweringcloud/momentum-clone))
     -   Netflix Clone : typescript react movie & tvshow preview ([demo](https://toweringcloud.github.io/netflix-clone), [repo](https://github.com/toweringcloud/netflix-clone))
+    -   Trello Clone : typescript react interactive scrum board (comming soon...)
+    -   Webtoons Clone : dart flutter webtoon mobile app (comming soon...)
     -   X(Twitter) Clone : typescript react firebase social network service ([demo0](https://nwitter-reloaded-6f54d.web.app), [demo1](https://toweringcloud.github.io/twitter-clone), [repo](https://github.com/toweringcloud/twitter-clone))
     -   Zoom Clone : vanillajs express webrtc video meeting ([demo](https://toweringcloud.github.io/zoom-clone), [repo](https://github.com/toweringcloud/zoom-clone))
 
 -   Game Projects
 
-    -   Memory Game : typescript react find same image (comming soon...)
+    -   Memory Game : typescript react-native find same image (comming soon...)
 
 -   Headless Projects
 
