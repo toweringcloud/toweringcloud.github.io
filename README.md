@@ -10,7 +10,7 @@
     -   Movie Search : vanillajs react movie list & detail ([demo](https://toweringcloud.github.io/movie-search), [repo](https://github.com/toweringcloud/movie-search))
     -   Nutrition Survey : typescript nextjs calorie analytics (comming soon...)
     -   OpenID Connect : typescript react authentication using firebase ([demo](https://toweringcloud.github.io/openid-connect), [repo](https://github.com/toweringcloud/openid-connect))
-    -   Pomodoro Timer : dart flutter time management utility (comming soon...)
+    -   Pomodoro Timer : dart flutter time management util ([demo](https://toweringcloud.github.io/pomodoro-timer), [repo](https://github.com/toweringcloud/pomodoro-timer))
     -   Scrum Board : typescript react recoil task manager ([demo](https://toweringcloud.github.io/scrum-board), [repo](https://github.com/toweringcloud/scrum-board))
     -   To Do List : vanillajs react-native expo work & travel checklist ([demo](https://toweringcloud.github.io/todo-list), [repo](https://github.com/toweringcloud/todo-list))
     -   Word Dictionary : polyglot word dictionary challenge ([demo](https://codesandbox.io), [repo](https://github.com/toweringcloud/word-dictionary))
