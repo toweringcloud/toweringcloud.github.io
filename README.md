@@ -4,6 +4,7 @@
 
     -   Another Chat : vanillajs express socketio chat messenger ([demo](https://toweringcloud.github.io/text-chat), [repo](https://github.com/toweringcloud/text-chat))
     -   Crypto Tracker : typescript react apexchart crypto ranking ([d0](https://enchanting-semolina-556992.netlify.app), [d1](https://toweringcloud.github.io/crypto-ranking), [repo](https://github.com/toweringcloud/crypto-tracker))
+    -   Forbes Billionaires : typescript nextjs billionaire search ([demo](https://github.com/toweringcloud/forbes-billionaires), [repo](https://github.com/toweringcloud/forbes-billionaires))
     -   How is the Weather? : vanillajs react-native expo weather forecast ([demo](https://github.com/toweringcloud/weather-forecast), [repo](https://github.com/toweringcloud/weather-forecast))
     -   Interactive Dashboard : python streamlit statistics dashboard ([demo](https://toweringcloud.github.io/data-visualization), [repo](https://github.com/toweringcloud/data-visualization))
     -   Job Scrapper : python flask job scrapper using beautifulsoup ([demo](https://toweringcloud.github.io/job-scrapper), [repo](https://github.com/toweringcloud/job-scrapper))
