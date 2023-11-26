@@ -1,4 +1,4 @@
-# Open Source Project List
+# Open Source Projects Summary
 
 -   Boilerplate Projects
 
