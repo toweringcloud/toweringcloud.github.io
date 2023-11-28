@@ -73,7 +73,7 @@ object-assign
 `,JA=Ue.span`
 	font-size: 12px;
 	color: ${e=>e.theme.contentColor};
-`;function ex(){var a,u;const e=Cy(Bf),[t,n]=ic(pg),{register:r,handleSubmit:o,setValue:i,formState:l}=fg(),s=({toDo:f})=>{t||n(Object.keys(ht)[0]),e(d=>[{text:f,id:Date.now(),category:t},...d]),i("toDo","")};return X.jsxs(X.Fragment,{children:[X.jsx("form",{onSubmit:o(s),children:X.jsxs(qA,{children:[X.jsx(XA,{...r("toDo",{required:"Please, write a task to do!",minLength:{value:3,message:"Your task is too short (min 3)!"},maxLength:{value:30,message:"Your task is too long (max 30)!"}}),placeholder:"Write a task to do."}),X.jsx(ZA,{children:"ADD"})]})}),X.jsx(JA,{children:(u=(a=l.errors)==null?void 0:a.toDo)==null?void 0:u.message})]})}const tx=Ue.div`
+`;function ex(){var a,u;const e=Cy(Bf),[t,n]=ic(pg),{register:r,handleSubmit:o,setValue:i,formState:l}=fg(),s=({toDo:f})=>{t||n(Object.keys(ht)[0]),e(d=>[{text:f,id:Date.now(),category:t},...d]),i("toDo","")};return X.jsxs(X.Fragment,{children:[X.jsx("form",{onSubmit:o(s),children:X.jsxs(qA,{children:[X.jsx(XA,{...r("toDo",{required:"Please, write a task to do!",minLength:{value:2,message:"Your task is too short (min 2)!"},maxLength:{value:30,message:"Your task is too long (max 30)!"}}),placeholder:"Write a task to do."}),X.jsx(ZA,{children:"ADD"})]})}),X.jsx(JA,{children:(u=(a=l.errors)==null?void 0:a.toDo)==null?void 0:u.message})]})}const tx=Ue.div`
 	width: 30vw;
 	/* border: 1px solid ${e=>e.theme.textColor}; */
 	border-radius: 15px;
