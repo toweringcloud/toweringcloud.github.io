@@ -27,14 +27,10 @@
     -   X(Twitter) Clone : typescript react firebase social network service ([d0](https://nwitter-reloaded-6f54d.web.app), [d1](https://toweringcloud.github.io/twitter-clone), [repo](https://github.com/toweringcloud/twitter-clone))
     -   Zoom Clone : vanillajs express webrtc video meeting ([demo](https://toweringcloud.github.io/zoom-clone), [repo](https://github.com/toweringcloud/zoom-clone))
 
--   Game Projects
-
-    -   Memory Game : typescript react-native find same image (comming soon...)
-
 -   Headless Projects
 
+    -   Account Service : nodejs planetscale user sign-up/in api (comming soon...)
     -   Health Check : nodejs cloudflare-workers monitoring api (comming soon...)
-    -   User Account : nodejs planetscale user sign-up/in api (comming soon...)
 
 -   Side Projects
 
